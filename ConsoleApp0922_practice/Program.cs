@@ -10,7 +10,7 @@ namespace ConsoleApp0922_practice
     class PrimeNumber
     {
         public void logic(int input)
-        {
+        { 
 
             bool flag = true;
 
